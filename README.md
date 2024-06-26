@@ -6,7 +6,9 @@
 游戏页面如下：
 
 登录页面：
+
 ![image](login.png)
 
 游戏界面：
+
 ![image](game.png)
